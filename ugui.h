@@ -17,7 +17,10 @@
 #ifndef __UGUI_H
 #define __UGUI_H
 
-#include "system.h"
+#include <stdlib.h>
+#include <stdint.h>
+#include <stdbool.h>
+
 #include "ugui_config.h"
 
 
