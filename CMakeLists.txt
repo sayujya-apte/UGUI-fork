@@ -7,3 +7,4 @@ add_library(
 )
 
 target_include_directories(${PROJECT_NAME} PUBLIC ./)
+target_compile_definitions(${PROJECT_NAME} PUBLIC USE_FONT_8X12)
